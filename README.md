@@ -8,14 +8,16 @@ This repository provides a compatibility fix for the Modular Tree add-on in Blen
 ## Problem
 
 In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail because of an incompatibility with Blender's API.
+![Add Leaves error in Blender 5.2 LTS](images/Add-Leaves-Error.png)
 
 ## Installation
 
 1. Install Modular Tree through Blender's **Get Extensions** interface.
 2. Locate the installed add-on files. Usually at this path (replace the brackets with your own username and Blender Version): C:\Users\[USER]\AppData\Roaming\Blender Foundation\Blender\[Version]\extensions\blender_org\
 3. Back up the original files before replacing them.
-4. Replace the corresponding files with the fixed versions provided in this repository.
+4. Replace the corresponding files with the fixed versions provided in this repository. operators.py in \modular_tree\python_classes and node_groups.py in \modular_tree\python_classes\resources
 5. Restart Blender and test the Add Leaves button.
+![Add Leaves error in Blender 5.2 LTS](images/Add-Leaves-Panel.png)
 
 ## Important
 
