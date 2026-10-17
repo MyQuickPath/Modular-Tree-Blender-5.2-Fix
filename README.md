@@ -18,7 +18,7 @@ In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail be
 3. Back up the original files before replacing them.
 4. Replace the corresponding files with the fixed versions provided in this repository. operators.py in \modular_tree\python_classes and node_groups.py in \modular_tree\python_classes\resources
 5. Restart Blender and test the Add Leaves button.
-6. 
+
 ![Add Leaves error in Blender 5.2 LTS](images/Add-Leaves-Panel.png)
 
 Complete Tutorial: 
