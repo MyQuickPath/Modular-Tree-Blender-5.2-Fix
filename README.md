@@ -21,7 +21,7 @@ In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail be
 
 ![Add Leaves error in Blender 5.2 LTS](images/Add-Leaves-Panel.png)
 
-Complete Tutorial: 
+## Complete Tutorial: https://youtu.be/xy0eZ1VU_is
 
 ## Original Project
 
