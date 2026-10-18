@@ -1,5 +1,5 @@
 # Modular-Tree-Blender-5.2-Fix
-Compatibility fix for the (Modular Tree add-on)[https://github.com/GoodPie/modular_tree] in Blender 5.2 LTS, restoring the Add Leaves button in the MTree node editor.
+Compatibility fix for the [Modular Tree add-on](https://github.com/GoodPie/modular_tree) in Blender 5.2 LTS, restoring the **Add Leaves** button in the MTree node editor.
 
 # Modular Tree Fix for Blender 5.2 LTS
 
@@ -23,15 +23,15 @@ In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail be
 
 Complete Tutorial: 
 
-Original Project
+## Original Project
 
-Original repository: (GoodPie/modular_tree)[https://github.com/GoodPie/modular_tree]
-Original author: (Maxime Herpin)[https://github.com/MaximeHerpin/modular_tree]
-Maintained fork: GoodPie
-License: GPL-3.0
+- **Original repository:** [GoodPie/modular_tree](https://github.com/GoodPie/modular_tree)
+- **Original author:** [Maxime Herpin](https://github.com/MaximeHerpin/modular_tree)
+- **Maintained fork:** GoodPie
+- **License:** GPL-3.0
 
 ## Important
 
-This repository contains modified files for compatibility with Blender 5.2 LTS. Install the original (Modular Tree add-on)[https://extensions.blender.org/add-ons/modular-tree/] separately.
+This repository contains modified files for compatibility with Blender 5.2 LTS. Install the original [Modular Tree add-on](https://extensions.blender.org/add-ons/modular-tree/) separately.
 
 This is an unofficial community fix and is not an official Blender release.
