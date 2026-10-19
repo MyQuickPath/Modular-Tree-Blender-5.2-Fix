@@ -22,8 +22,8 @@ In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail be
 ![Add Leaves error in Blender 5.2 LTS](images/Add-Leaves-Panel.png)
 
 ## Video Tutorial
-
-[![Watch the tutorial](https://github.com/MyQuickPath/Modular-Tree-Blender-5.2-Fix/blob/07403c60f1bf830cd4334b694f7d70357e8465fc/images/Cover%202.png)](https://www.youtube.com/watch?v=xy0eZ1VU_is)
+[![Watch the tutorial](https://img.youtube.com/vi/LkV1UAsnDmk/maxresdefault.jpg)](https://www.youtube.com/watch?v=LkV1UAsnDmk)
+[![Watch the tutorial](https://github.com/MyQuickPath/Modular-Tree-Blender-5.2-Fix/blob/07403c60f1bf830cd4334b694f7d70357e8465fc/images/Cover%202.png)](https://www.youtube.com/watch?v=xy0eZ1VU_is&start=449)
 
 Watch the video for a step-by-step guide to fixing the Add Leaves error in Blender 5.2 LTS.
 
@@ -39,5 +39,3 @@ Watch the video for a step-by-step guide to fixing the Add Leaves error in Blend
 This repository contains modified files for compatibility with Blender 5.2 LTS. Install the original [Modular Tree add-on](https://extensions.blender.org/add-ons/modular-tree/) separately.
 
 This is an unofficial community fix and is not an official Blender release.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pnnEtF5faDk?si=3JqAjzbChz7YjX4E&amp;start=66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
