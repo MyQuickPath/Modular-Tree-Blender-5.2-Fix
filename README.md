@@ -25,7 +25,7 @@ In Blender 5.2 LTS, clicking **Add Leaves** in the MTree node editor may fail be
 
 [![Watch the tutorial](https://github.com/MyQuickPath/Modular-Tree-Blender-5.2-Fix/blob/main/images/Cover.png?raw=true)](https://youtu.be/xy0eZ1VU_is&start=449)
 
-<a href="https://youtu.be/xy0eZ1VU_is?start=449" target="_blank" rel="noopener noreferrer">
+<a href="https://youtu.be/xy0eZ1VU_is?start=449" target="_blank">
   <img src="https://github.com/MyQuickPath/Modular-Tree-Blender-5.2-Fix/blob/main/images/Cover.png?raw=true" alt="Watch the tutorial" width="700">
 </a>
 
